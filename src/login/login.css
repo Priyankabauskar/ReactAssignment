@@ -1,0 +1,41 @@
+#container {
+    position: fixed;
+    width: 340px;
+    height: 280px;
+    top: 39%;
+    }
+    form {
+      margin: 0 auto;
+      margin-top: 20px;
+  }
+  label {
+      color: #3f4143;
+      display: inline-block;
+      margin-left: 18px;
+      padding-top: 10px;
+      font-size: 14px;
+  }
+  input {
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 12px;
+    outline: none;
+  }
+  input[type=text],
+  input[type=password] {
+    color: #777;
+    padding-left: 10px;
+    margin: 10px;
+    margin-top: 12px;
+    margin-left: 18px;
+    width: 290px;
+    height: 35px;
+  }
+.loginbtn{
+  padding:5px;
+  width:30%;
+  background-color: #ff0000;
+  color: #ffffff;
+  margin-left:17px;
+  border: 2px solid red;
+  border-radius: 4px;
+}

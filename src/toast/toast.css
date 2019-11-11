@@ -1,0 +1,9 @@
+.toastContainer {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    border: 1px solid black;
+    padding: 10px 15px;
+    box-shadow: 0 0 8px 2px;
+  }
+  
